@@ -4,7 +4,7 @@ Maria, Data Scientist analyzes trends and performance patterns of the school dis
 
 ### Preprocessing 
 
-After the initial school district analysis, Maria informed me that academic dishonesty compromised the Thomas High School ninth grade math and reading scores.  During reanalysis, I replaced the Thomas Highschool ninth grade reading and math scores with “NaN”. This enabled me to maintain the integrity of the remaining data. The "first" sets of data were analyzed prior to knowing the data was compromized. The "second" sets of data were analyzed after modifying THS ningth grade information.
+After the initial school district analysis, Maria informed me that academic dishonesty compromised the Thomas High School ninth grade math and reading scores.  During reanalysis, I replaced the Thomas Highschool ninth grade reading and math scores with “NaN”. This enabled me to maintain the integrity of the remaining data. The "first" sets of data were analyzed prior to knowing the data was compromized. The "second" sets of data were analyzed after modifying THS ninth grade information.
 
 ### Analysis Parameters
 - District Summary
